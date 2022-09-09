@@ -1,16 +1,16 @@
-### Hi there 👋
+### Opa! Sou o Nycolas de Medeiros 👋
 
-<!--
-**nycolasmedeiros/nycolasmedeiros** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+- 🔭 Em busca de me tornar um desenvolvedor front-end
+- 🌱 Estudando React.
+- 📫 Contate-me no email: nycolas.medeiros@gmail.com
+- 😄 Pronomes: ele/dele
 
-Here are some ideas to get you started:
+<div>
+  <a href="https://github.com/nycolasmedeiros">
+  <img height="180em" width="48%" src="https://github-readme-stats.vercel.app/api?username=nycolasmedeiros&show_icons=true&theme=dracula&include_all_commit=true&count_private=true"/>
+  <img height="180em" width="50%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=nycolasmedeiros&layout=compact&langs_count=16&theme=dracula"/>
+</div>
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+<div style="display: flex; justify-content:center;">
+  ## Solarpunk is the dream 🌱
+</div>
